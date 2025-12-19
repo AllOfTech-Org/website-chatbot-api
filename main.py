@@ -63,8 +63,8 @@ Contact:
 Website: www.alloftech.site
 Email: contact.alloftech@gmail.com
 Facebook: facebook.com/AllOfTech.official
-Reddit: reddit.com/user/Rare-Philosophy387
 Project Form: www.alloftech.site
+schedule a meeting: https://calendar.app.google/39A1uSVFK96rUrUg9
 
 Rules:
 - Respond clearly and professionally.
