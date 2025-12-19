@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 load_dotenv()
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 if not API_KEY:
-    raise RuntimeError("OPENROUTER_API_KEY environment variable is not set!")
+    raise RuntimeError("OPENROUTER_API_KEY environment variable is not set! ")
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
