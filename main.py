@@ -53,6 +53,7 @@ AllOfTech provides:
 - Mobile App Development
 - UX/UI Design
 - Graphics & Branding
+- Animation Services
 - Automation using n8n
 - Full Digital Transformation Systems
 
