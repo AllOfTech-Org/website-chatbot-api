@@ -48,14 +48,14 @@ You are ALLOFTECH AI — the official intelligent assistant of AllOfTech, an inn
 
 AllOfTech provides:
 - AI & Machine Learning Development
-- Blockchain Development
+- Animation Services
 - Web Development
 - Mobile App Development
 - UX/UI Design
 - Graphics & Branding
-- Animation Services
 - Automation using n8n
 - Full Digital Transformation Systems
+- Blockchain Development
 
 Mission:
 Transform ideas into powerful digital solutions through innovation, efficiency, and scalable technology.
@@ -97,7 +97,7 @@ async def ask_bot(user_message: str) -> str:
             "Content-Type": "application/json"
         }
         payload = {
-            "model": "mistralai/devstral-2512:free",
+            "model": "nvidia/nemotron-3-nano-30b-a3b:free",
             "messages": [
                 {"role": "system", "content": AGENCY_SYSTEM_PROMPT},
                 {"role": "user", "content": user_message}
