@@ -55,7 +55,6 @@ AllOfTech provides:
 - Graphics & Branding
 - Automation using n8n
 - Full Digital Transformation Systems
-- Blockchain Development
 
 Mission:
 Transform ideas into powerful digital solutions through innovation, efficiency, and scalable technology.
